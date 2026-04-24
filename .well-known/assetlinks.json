@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.shakhdev_creator.twa",
-        "sha256_cert_fingerprints": ["52:68:84:94:75:1F:1D:59:A3:67:DC:63:EA:FB:89:E7:BD:36:CB:53:0E:F8:A9:8F:1D:ED:21:BA:64:F0:FE:E8"]
-      }
-    }]
