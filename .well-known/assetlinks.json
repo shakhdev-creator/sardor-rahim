@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.shakhdev_creator.twa",
-        "sha256_cert_fingerprints": ["46:3C:FC:38:68:CD:3F:4C:80:2F:BF:E5:07:11:0D:C5:F8:45:E1:1C:8C:54:44:10:00:EA:54:50:0F:15:D1:2D"]
+        "sha256_cert_fingerprints": ["52:68:84:94:75:1F:1D:59:A3:67:DC:63:EA:FB:89:E7:BD:36:CB:53:0E:F8:A9:8F:1D:ED:21:BA:64:F0:FE:E8"]
       }
     }]
